@@ -105,3 +105,4 @@ function getWinRecord(address _addr)
 	return(r1, r2, r3, r241, r242, r243);
 }
 ```
+注册指导微信
